@@ -1,0 +1,22 @@
+QRNG/
+├── ideal/
+│   ├── sequence_001/
+│   │   ├── sequence.txt
+│   │   └── metadata.txt
+│   │
+│   ├── sequence_002/
+│   │   ├── sequence.txt
+│   │   └── metadata.txt
+│   │
+│   └── sequence_003/
+│       ├── sequence.txt
+│       └── metadata.txt
+│
+└── degraded/
+    ├── sequence_001/
+    │   ├── sequence.txt
+    │   └── metadata.txt
+    │
+    └── sequence_002/
+        ├── sequence.txt
+        └── metadata.txt
